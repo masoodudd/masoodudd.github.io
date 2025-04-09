@@ -94,7 +94,8 @@ function addUserInformation() {
                 'mixer.com': "fab fa-mixer",
                 'mastodon.social': "fab fa-mastodon",
                 'mailchimp.com': "fab fa-mailchimp",
-                'email': "fas fa-envelope"
+                'email': "fas fa-envelope",
+                'bsky.app': "fa-brands fa-bluesky"
             };
 
             // Adding social links based on the detected type

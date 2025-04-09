@@ -1,0 +1,9 @@
+Io's Radio
+---
+I wanted to recreate a cool piece of technology from Mobile Suit Gundam Thunderbolt, which was Io Flemming's pirate radio receiver. I started off with the actual receiver and gave it the correct materials that I referenced from screenshots of the anime. Then I worked to simulate the pushing of tape onto the actual receiver for it to fully take shape as it does in the reference. <br><br>Finally, the screen: I gave the back of the screen an emissive material and added a plasitc transparent material to another screen infront of the emissive screen to give it a glossy effect, and then replicating but giving my own twist on the user interface for the screen with a texture that sits inbetween the glass and the emissive.
+---
+Blender, Aseprite
+---
+../../Resources/ioradio/jazz.png 
+---
+Io's Radio.html

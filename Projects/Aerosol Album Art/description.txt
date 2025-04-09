@@ -1,0 +1,9 @@
+Aerosol Album Art
+---
+One of the best ways I can challenge myself is to take a genre of music and visually represent it in the best way possible. Here I've taken one of my favorite genres, rhythm-heavy electronic hip hop, and given it a visual flair.<br><br> Using heavy associations with tagging culture through a spray can and graffiti style logo, I devised my playlist's album art to fit a new-age design language but still have it burst with color.
+---
+Blender, Adobe Photoshop
+---
+../../Resources/aersol/aerosolalbumart2024.png
+---
+aerosol.html

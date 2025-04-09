@@ -1,0 +1,9 @@
+Lance of Longinus
+---
+Just like everyone who's ever seen Evangelion, it's imagery is distinct and stands out as some of the best cinematography in anime. One particular scene in sequel movie "End of Evangelion" struck me as the long Lance that was used by the mechs in the story is standing tall on the moon, casting a harsh shadow against the craters, emanating a menacing stature while the mysterious crimson metal gleams from the sun light. I worked to recreate this scene in Blender and used multiple image layers to embed the heads up display that is prominent in the scene. This was also my first foray into Blender's compositor and I was able to learn so much from how the node system works. <br><br>Credits to NASA's Scientific Visualization Studio for their Moon CGI kit to recreate the moon with accuracy!
+---
+Blender
+---
+../../Resources/lofl/thumbnail.png
+---
+Lance of Longinus.html

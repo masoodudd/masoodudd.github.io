@@ -1,10 +1,7 @@
 Blender
-3ds Max
 Unity
-Zbrush
+Unreal Engine
+Godot
 Adobe Photoshop
-Topogun
-Substance 3d Painter
-Marvelous Designer
-Maya
-Marmoset Toolbag
+Adobe InDesign
+Adobe Illustrator

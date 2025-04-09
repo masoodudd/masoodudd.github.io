@@ -1,0 +1,8 @@
+../../Resources/aersol/logoexploration.png
+
+../../Resources/aersol/colorrough.png
+
+../../Resources/aersol/aerosolalbumart2024.png // ../../Resources/aersol/aerosolWireframe.png
+
+../../Resources/aersol/aerosolfinalaa.mp4
+Full animation

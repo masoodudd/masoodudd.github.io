@@ -62,7 +62,7 @@
 .recommendation h2 {
     font-size: 20px;
     margin: 0;
-    color: #edb049;
+    color: #8356ff;
 }
 
 .recommendation h3 {
@@ -104,7 +104,8 @@
 }
 
 .dot.active {
-    background-color: #f5ba13;
+    background-color: #8356ff;
+    ;
 }
 
 @media (max-width: 600px) {

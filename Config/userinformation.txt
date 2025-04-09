@@ -1,10 +1,7 @@
-https://yourprofilepic.png
-Your Name
-Your Role @ Company
-Your Location
-https://x.com/ArtOfPilgrim
-http://youtube.com/c/ArtofPilgrim
-https://www.linkedin.com/in/thomasrwbutters/
-https://www.artstation.com/art_of_pilgrim
-https://discord.com/invite/WCnQ5bQa6Q
-youremail@email.com
+../../Resources/favicon/head.png
+Masood Uddin // DJBIRYANI
+3D Artist & Graphic Designer
+Texas, USA
+https://bsky.app/profile/djbiryani.bsky.social
+https://www.instagram.com/djbiryani.gfx/
+designsbydjbiryani@gmail.com
