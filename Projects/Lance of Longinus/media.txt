@@ -4,7 +4,7 @@
 
 ../../Resources/lofl/nodes.png
 
-../../Resources/lofl/wireframe.png // ../../Resources/lofl/nocomposite.png
+../../Resources/lofl/wireframe2.png // ../../Resources/lofl/nocomposite.png
 
 ../../Resources/lofl/finalrender.png
 
